@@ -46,4 +46,4 @@ extra_seconds = total_seconds - (total_minutes*60)
 print total_minutes
 print extra_seconds
 
-#which means you arrive home 38 minutes and 6 seconds later at 7:20am and 6 seconds
+#which means you arrive home 38 minutes and 6 seconds later at 7:30am and 6 seconds
